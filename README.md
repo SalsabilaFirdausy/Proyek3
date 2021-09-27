@@ -9,3 +9,6 @@ This application is made using the Vuforia library and Unity Engine. Application
 In addition, there is audio as an aid so that children can better understand the name of the object in question. 
 Based on the condition of dyslexic children who have delays in learning, the presence of 3D and audio objects can help children in 
 the process of recognizing objects in the surrounding environment
+
+### Link Gdrive
+#### https://drive.google.com/drive/folders/1OIum_3cQo2ykWUJMCo0n-wTduGm7iyYC?usp=sharing
