@@ -1,8 +1,8 @@
 # Proyek 3 - AUGMENTED REALITY
 ## Team Member
 ## 1. Nabilah Affryda Rihadatul'aisy - 1841720012
-## 2. Revinda Amalia Saktyawati - 1841720012
-## 3. Salsabila Firdausy - 1841720012
+## 2. Revinda Amalia Saktyawati - 1841720185
+## 3. Salsabila Firdausy - 1841720036
 
 In this project will be Augmented Reality-Based Educational Games for Mild Dyslexic Children. 
 This application is made using the Vuforia library and Unity Engine. Applications can display 3D objects of fruit and vegetables. 
