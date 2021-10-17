@@ -12,3 +12,6 @@ the process of recognizing objects in the surrounding environment
 
 ### Link Gdrive
 #### https://drive.google.com/drive/folders/1OIum_3cQo2ykWUJMCo0n-wTduGm7iyYC?usp=sharing
+
+### Link Documentation Report
+#### https://docs.google.com/document/d/11uLQ16L378HQ61EAcfKfc9GV35QVwFukBorOhChcVDk/edit?usp=sharing
